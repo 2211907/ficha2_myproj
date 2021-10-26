@@ -1,1 +1,14 @@
+
 alteração no branch NOVAFEATURE
+
+Este é o exemplo de um ficheiro de texto file1
+
+Estou a fazer alterações
+
+Alteraçõe efetuadas no branch "NOVAFEATURE"
+
+Alterações em NOVAFEATURE
+
+Alterações em master
+
+
